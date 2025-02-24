@@ -1,0 +1,1 @@
+This project aims to solve the classic 2-dimensional rotating cavity fluid momodeling problem using a fraction step Navier Stokes solver. The solver is written in C++ from scratch as part of a course project. The code was determined to be atleast 5 times faster than other submissions made by the cohort, which were predominantly python codes.
